@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Ranique",
+        "last_name": "Roake",
+        "email": "rroake0@creativecommons.org",
+        "gender": "Female",
+        "salary": 20000
+    },
+    {
+        "id": 2,
+        "first_name": "Morley",
+        "last_name": "Willars",
+        "email": "mwillars1@ifeng.com",
+        "gender": "Male",
+        "salary": 10000
+    },
+    {
+        "id": 3,
+        "first_name": "Quintin",
+        "last_name": "Fosserd",
+        "email": "qfosserd2@samsung.com",
+        "gender": "Polygender",
+        "salary": 23000
+    },
+    {
+        "id": 4,
+        "first_name": "Emmi",
+        "last_name": "Abley",
+        "email": "eabley3@cnn.com",
+        "gender": "Female",
+        "salary": 29000
+    },
+    {
+        "id": 5,
+        "first_name": "Jazmin",
+        "last_name": "Benyon",
+        "email": "jbenyon4@marketwatch.com",
+        "gender": "Female",
+        "salary": 78000
+    },
+    {
+        "id": 6,
+        "first_name": "Marcellus",
+        "last_name": "Bonin",
+        "email": "mbonin5@amazon.com",
+        "gender": "Male",
+        "salary": 25000
+    },
+    {
+        "id": 7,
+        "first_name": "Rodina",
+        "last_name": "Copestick",
+        "email": "rcopestick6@dmoz.org",
+        "gender": "Female",
+        "salary": 76000
+    },
+    {
+        "id": 8,
+        "first_name": "Ethel",
+        "last_name": "Balshen",
+        "email": "ebalshen7@paginegialle.it",
+        "gender": "Female",
+        "salary": 65000
+    },
+    {
+        "id": 9,
+        "first_name": "Dave",
+        "last_name": "Fills",
+        "email": "dfills8@paypal.com",
+        "gender": "Male",
+        "salary": 12000
+    },
+    {
+        "id": 10,
+        "first_name": "Waite",
+        "last_name": "Eddolls",
+        "email": "weddolls9@oracle.com",
+        "gender": "Male",
+        "salary": 32000
+    }
+]
